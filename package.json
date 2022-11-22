@@ -1,0 +1,26 @@
+{
+  "name": "stations-project-management",
+  "version": "1.0.0-alpha.0",
+  "description": "Manages the base configuration",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "management": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlon-erler/stations-project-management.git"
+  },
+  "author": "a035",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marlon-erler/stations-project-management/issues"
+  },
+  "homepage": "https://github.com/marlon-erler/stations-project-management#readme",
+  "dependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
