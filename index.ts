@@ -7,5 +7,4 @@ import Fs from "fs/promises";
 let subcommand = process.argv[2];
 
 switch (subcommand) {
-
 }
